@@ -14,7 +14,7 @@ I would like to create a list of anime which i have seen and i like it.
   <br><br>
   <h3>My anime List</h3>
 
-            <ul style="list-style-type:square">
+  <ul style="list-style-type:square">
   <li> <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Your name</a></li>
 <img src="photoes for site/your name.jpg" width="350" heith="350" title="dream time">
 
